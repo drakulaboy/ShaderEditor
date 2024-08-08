@@ -243,7 +243,9 @@
 	<string name="sample_texture_rationale">How to draw textures</string>
 	<string name="sample_touch_name">Touch</string>
 	<string name="sample_touch_rationale">How to process touch input</string>
-
+    <string name="sample_tiles_name">Black and white tiles</string>
+    <string name="sample_tiles_rationale">Black and white tiles</string>
+	
 	<!-- Database -->
 	<string name="default_shader">Default</string>
 
