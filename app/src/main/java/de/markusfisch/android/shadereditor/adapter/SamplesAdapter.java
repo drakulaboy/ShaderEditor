@@ -95,6 +95,10 @@ public class SamplesAdapter extends BaseAdapter {
 						R.drawable.thumbnail_touch,
 						context.getString(R.string.sample_touch_name),
 						context.getString(R.string.sample_touch_rationale)),
+			    new Sample(R.raw.sample_tiles,
+						R.drawable.thumbnail_tiles,
+						context.getString(R.string.sample_tiles_name),
+						context.getString(R.string.sample_tiles_rationale)),        
 		};
 	}
 
